@@ -40,9 +40,7 @@
 - lodash   js工具函数库
 - vant  移动端UI组件库
 
-博客地址：<a target="_blank" href="https://blog.csdn.net/Kavii_a?spm=1001.2101.3001.5113">贝贝的博客</a>
-
-欢迎向我提问
+博客地址：CSDN：发量超多的瑞克
 
 ​	
 
